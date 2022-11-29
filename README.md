@@ -15,7 +15,7 @@ People usually specially this year, 2022 want to make the largest revenue of the
 
 ## How to get started
 
-Simply you can fork the code as your initial start. You can increase the number on inputs as needed by editing the [index.html file](./index.html), change colors of the app by editing the style.css file and adding more functionalities by adding more functions to the script.js file.
+Simply you can fork the code as your initial start. You can increase the number on inputs as needed by editing the [index.html file](./index.html), change colors of the app by editing the [style.css file](./style.css) and adding more functionalities by adding more functions to the [script.js file](./script.js).
 
 ## Where users can get help with project
 
