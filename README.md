@@ -13,6 +13,9 @@ Input:
 Output
    simple interest = p*t*r
 
+## Table of content
+- [Benefits of the project](#Benefits-of-the-project)
+
 ## Benefits of the project
 
 People usually specially this year, 2022 want to make the largest revenue of their money. They always do lots of calculations to prove which place will give them the the largest amount of money to put their savings in. Using this interest calculator, you can get the result (the interest amount after the specified years in just one click.
