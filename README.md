@@ -25,6 +25,12 @@ IF you input amount of 4800 USD, interest rate of 15.25% and 5 years period, you
 
 You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
 
+1. Clone the project
+   ```sh
+   $ git clone https://github.com/esraahisham753/github-final-project.git
+   ```
+   
+
 ## Roadmap
 
 In future releases we can add a feature that user can divide his money among several places and see the revenue of different combinations and compare them to choose the best
