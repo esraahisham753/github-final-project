@@ -19,16 +19,15 @@ Simply you can fork the code as your initial start ![fork](https://img.shields.i
 
 ## Usage
 
-IF you input amount of 4800 USD, interest rate of 15.25% and 5 years period, you will receive result of 3660 USD.
-
-<img src="./task_7.JPG" alt="example">
-
-You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
-
 1. Clone the project
    ```sh
    $ git clone https://github.com/esraahisham753/github-final-project.git
    ```
+2. You can open index.html file to test app
+3. IF you input amount of 4800 USD, interest rate of 15.25% and 5 years period, you will receive result of 3660 USD.
+<img src="./task_7.JPG" alt="example">
+
+You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
    
 
 ## Roadmap
