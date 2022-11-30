@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/esraa-abduallah-632117121/">
+   <img src="./wuu6bf5x9o.jpeg" alt="logo" align="right" height="60">
+<a>
+   
 # github-final-project
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
