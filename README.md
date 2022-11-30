@@ -17,7 +17,16 @@ People usually specially this year, 2022 want to make the largest revenue of the
 
 Simply you can fork the code as your initial start ![fork](https://img.shields.io/github/forks/esraahisham753/github-final-project?style=social). You can increase the number on inputs as needed by editing the [index.html file](./index.html), change colors of the app by editing the [style.css file](./style.css) and adding more functionalities by adding more functions to the [script.js file](./script.js).
 
-## Where users can get help with project
+## Usage
+
+IF you input amount of 1000 USD, interest rate of 10% and 10 years period, you will receive result of 1000 USD.
+You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
+
+## Roadmap
+
+In future releases we can add a feature that user can divide his money among several places and see the revenue of different combinations and compare them to choose the best
+
+## Support
 
 For any help, you can contact me on my email: esraahisham753@gmail.com
 
@@ -29,8 +38,13 @@ This project is maintained by me, Esraa Abduallah
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
+Contributions shoudn't have any types of errors to be accepted
 
 Please make sure to update tests as appropriate.
+
+## Authors and acknowledgment
+
+The project is based on IBM "Getting started with git and github course".
 
 ## License
 
