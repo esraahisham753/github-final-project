@@ -15,15 +15,18 @@ Output
 
 ## Table of content
 - [Benefits of the project](#Benefits-of-the-project)
+- [Usage](#Usage)
+- [Roadmap](#Roadmap)
+- [Support](#Support)
+- [Who maintains and contributes to the project](#Who-maintains-and-contributes-to-the-project)
+- [Contributing](#Contributing)
+- [Authors and acknowledgment](#Authors-and-acknowledgment)
+- [License](#License)
 
 ## Benefits of the project
 
 People usually specially this year, 2022 want to make the largest revenue of their money. They always do lots of calculations to prove which place will give them the the largest amount of money to put their savings in. Using this interest calculator, you can get the result (the interest amount after the specified years in just one click.
-
-## How to get started
-
-Simply you can fork the code as your initial start ![fork](https://img.shields.io/github/forks/esraahisham753/github-final-project?style=social). You can increase the number on inputs as needed by editing the [index.html file](./index.html), change colors of the app by editing the [style.css file](./style.css) and adding more functionalities by adding more functions to the [script.js file](./script.js).
-
+ .
 ## Usage
 
 1. Clone the project
@@ -33,8 +36,9 @@ Simply you can fork the code as your initial start ![fork](https://img.shields.i
 2. You can open index.html file to test app
 3. IF you input amount of 4800 USD, interest rate of 15.25% and 5 years period, you will receive result of 3660 USD.
 <img src="./task_7.JPG" alt="example">
-
+   
 You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
+4. You can increase the number on inputs as needed by editing the [index.html file](./index.html), change colors of the app by editing the [style.css file](./style.css) and adding more functionalities by adding more functions to the [script.js file](./script.js)
    
 
 ## Roadmap
