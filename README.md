@@ -20,6 +20,9 @@ Simply you can fork the code as your initial start ![fork](https://img.shields.i
 ## Usage
 
 IF you input amount of 1000 USD, interest rate of 10% and 10 years period, you will receive result of 1000 USD.
+
+<img src="https://drive.google.com/file/d/1dVXEG_YcjgV7quOjsFCFkdO0_DLn2YF9/view?usp=sharing" alt="example">
+
 You can watch a demo of the app on this [link](https://www.youtube.com/watch?v=k1sixtDKLXw)
 
 ## Roadmap
